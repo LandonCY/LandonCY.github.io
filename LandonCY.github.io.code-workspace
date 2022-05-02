@@ -1,8 +1,13 @@
-{
-	"folders": [
-		{
-			"path": "."
-		}
-    ],
-    "settings": {}
-}
+<!DOCTYPE html>
+    <html lang="en">
+        <head>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <meta name-"author" content-"Landon Young"
+            <title> Donut | Web Developer</title>
+        </head>
+        <body>
+           <p>Hello, World, and welcome to my first website!</p>
+           <p>Hello again, more content will be added with future updates of this website; so, please come back and check soon!</p>
+        </body>
+    </html> 
